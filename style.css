@@ -1,0 +1,51 @@
+h2{
+    margin: 0;     
+    color: #666;
+    padding-top: 90px;
+    font-size: 52px;
+    font-family: "trebuchet ms", sans-serif;    
+}
+.item{
+    background: #333;    
+    text-align: center;
+    height: 300px !important;
+}
+.image{
+    width: 200px;
+    height: 200px;
+}
+.bs-example{
+	margin: 20px;
+}
+
+.gallery{
+    text-align: center;
+}
+
+#menu{
+    text-align: center;
+}
+.left{
+    width: 75px;
+    margin-right: 75px;
+        display: inline-block;
+}
+.right{
+    width: 75px;
+    margin-left: 75px;
+        display: inline-block;
+}
+.container{
+    text-align: center;
+
+}
+.pgNum{
+    height: 15px;
+    width: 15px;
+    border-radius: 15px;
+    background-color: gray;
+    display: inline-block;
+}
+.green{
+    background-color: green;
+}
